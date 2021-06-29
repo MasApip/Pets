@@ -1,0 +1,9 @@
+name: Pets
+main: ArasakaID\Pets\Pets
+version: 1.0.0
+api: 3.0.0
+
+permissions:
+  pets.command:
+    description: Permission for Pets Command
+    default: op
