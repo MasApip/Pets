@@ -11,6 +11,7 @@ You can have pet on your server
 # Pets
 Walking:
 - Wolf
+
 Flying:
 - Wither
 - EnderDragon
